@@ -1,22 +1,23 @@
 # Inspiration
 
-## Design – Individuals
-### Fashion Designers
+## Design 
+###Individuals
+#### Fashion Designers
 - Emilio Pucci
 - Raf Simons
 
-### Furniture Designers
+#### Furniture Designers
 - Robert Aemes
 
-### Product Designers
+#### Product Designers
 - Jony Ive
 - Mark Newson
 - Dieter Rams
 
-### Typographers
+#### Typographers
 - Wim Crouwel
 
-## Design – Studios
+### Studios
 - [Gretel](http://gretelny.com/)
 - Fuseproject
 - IDEO
