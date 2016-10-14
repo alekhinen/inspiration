@@ -18,7 +18,8 @@
 - Wim Crouwel
 
 ### Studios
-- [Gretel](http://gretelny.com/)
-- Fuseproject
-- IDEO
 - [BakkenBaeck](https://bakkenbaeck.com/)
+- Fuseproject
+- [Gretel](http://gretelny.com/)
+- IDEO
+- [Other Studio](http://www.other-studio.com/)
