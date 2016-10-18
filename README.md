@@ -8,7 +8,7 @@ A collection of really, really cool people + companies.
 
 ### Photographers
 - Ansel Adams
-- Asgery Carlsen
+- Asger Carlsen
 - Janet Delaney
 - Danny Lyon
 - Man Ray
