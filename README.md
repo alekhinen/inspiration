@@ -10,6 +10,7 @@ A collection of really, really cool people + companies.
 - Ansel Adams
 - Asger Carlsen
 - Janet Delaney
+- Todd Hido
 - Danny Lyon
 - Man Ray
 - Gerhard Richter
