@@ -8,12 +8,14 @@ A collection of really, really cool people + companies.
 
 ### Photographers
 - Ansel Adams
+- [Daniel Arnold](http://www.daniel-arnold.org/)
 - Asger Carlsen
-- Janet Delaney
+- [Janet Delaney](http://www.janetdelaney.com/)
 - Todd Hido
 - Danny Lyon
 - Man Ray
 - Gerhard Richter
+- [Mark Steinmetz](http://www.marksteinmetz.net/)
 - Alfred Stieglitz
 - Jeff Wall
 - James Windsor
